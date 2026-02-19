@@ -21,6 +21,9 @@ Passion Project
 
 - https://smartphonetycoon.com/
 
+
+![](https://komarev.com/ghpvc/?username=seannam)
+
 <!--
 **seannam/seannam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
