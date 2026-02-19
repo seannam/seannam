@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer with 7+ YOE and a startup CTO. I'm a serial indiemaker.
+I'm a software engineer with 7+ YOE, a startup CTO, and a serial indiemaker.
 
 Products I've built:
 
@@ -9,6 +9,13 @@ Products I've built:
 - https://notepulse.net/
 - https://www.proofpulse.net/
 - https://pixsnap.dev/
+
+Mobile Apps/Games:
+
+- https://apps.apple.com/us/developer/indiecraft-llc/id1751436183
+- https://apps.apple.com/us/app/boba-tycoon-idle-tea-shop/id6758029554
+- https://apps.apple.com/us/app/farm-blast-match-3/id6504728405
+- https://apps.apple.com/us/app/100-colorful-balls-and-fun/id886715752
 
 Passion Project
 
