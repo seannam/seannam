@@ -24,6 +24,8 @@ Passion Project
 
 ![](https://komarev.com/ghpvc/?username=seannam)
 
+![](https://hit.yhype.me/github/profile?account_id=4271055)
+
 <!--
 **seannam/seannam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
