@@ -21,6 +21,10 @@ Passion Project
 
 - https://smartphonetycoon.com/
 
+Agentic Engineering
+
+- [Claude Code Insights Report](https://seannam.github.io/claude-code-insights/)
+
 
 ![](https://komarev.com/ghpvc/?username=seannam)
 
