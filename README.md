@@ -2,13 +2,9 @@
 
 I'm a software engineer with 7+ YOE, a startup CTO, and a serial indiemaker.
 
-Products I've built:
+Passion Project
 
-- https://indiepanel.net/
-- https://indiemetrics.net/
-- https://notepulse.net/
-- https://www.proofpulse.net/
-- https://pixsnap.dev/
+- https://smartphonetycoon.com/
 
 Mobile Apps/Games:
 
@@ -17,13 +13,17 @@ Mobile Apps/Games:
 - https://apps.apple.com/us/app/farm-blast-match-3/id6504728405
 - https://apps.apple.com/us/app/100-colorful-balls-and-fun/id886715752
 
-Passion Project
-
-- https://smartphonetycoon.com/
-
 Agentic Engineering
 
 - [Claude Code Insights Report](https://seannam.github.io/claude-code-insights/)
+
+Products I've built:
+
+- https://indiepanel.net/
+- https://indiemetrics.net/
+- https://notepulse.net/
+- https://www.proofpulse.net/
+- https://pixsnap.dev/
 
 
 ![](https://komarev.com/ghpvc/?username=seannam)
